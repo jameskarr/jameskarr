@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">👋 Hi, I'm James</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameskarr&label=Views&color=0e75b6&style=flat" alt="jameskarr" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://jameskarr.netlify.app/](https://jameskarr.netlify.app/)
