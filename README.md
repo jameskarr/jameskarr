@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://giphy.com/embed/m0dmKBkncVETJv2h0S" height="50px"> <img src="https://media4.giphy.com/media/dlh7c1N7NqrH1ns4Yf/giphy.gif" height="50px">
-</p>
 <h1 align="center">Hi, I'm James</h1>
 
 - 👨‍💻 Some of my projects are available at [https://jameskarr.netlify.app/](https://jameskarr.netlify.app/)
