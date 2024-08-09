@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm James</h1>
+<h1 align="center">Hello world, it's James</h1>
 
 - 👨‍💻 Some of my projects are available @ [https://jameskarr.netlify.app/](https://jameskarr.netlify.app/)
 
